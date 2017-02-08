@@ -1,0 +1,47 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - MJRefresh (3.1.12)
+  - NVActivityIndicatorView (3.0)
+  - RxCocoa (3.0.0):
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.0)
+  - SnapKit (3.0.2)
+  - SQLite.swift (0.11.0):
+    - SQLite.swift/standard (= 0.11.0)
+  - SQLite.swift/standard (0.11.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - MJRefresh (~> 3.1.12)
+  - NVActivityIndicatorView (~> 3.0)
+  - RxCocoa (~> 3.0.0)
+  - RxSwift (~> 3.0.0)
+  - SnapKit (~> 3.0.2)
+  - SQLite.swift (~> 0.11.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NVActivityIndicatorView: 81953b5e65093ba79edf4fe7268e002039ca5268
+  RxCocoa: 0a2f3ae381cf16f4021a4cee7a4420f83058a965
+  RxSwift: a930cd662f5b4a7ca9dc3518585dba91dadf497c
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SQLite.swift: 9a26273607d3077a2e5a8d33486e9989f8404c7d
+
+PODFILE CHECKSUM: 34d558a664e74e3f20fe7b7975b434c6a20087fa
+
+COCOAPODS: 1.2.0.beta.1
